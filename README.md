@@ -1,1 +1,3 @@
 # nand2tetris
+
+link for the <a href="https://www.nand2tetris.org/course">course</a>
