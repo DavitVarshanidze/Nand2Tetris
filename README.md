@@ -1,7 +1,5 @@
-# nand2tetris
+# Click here: <a href="https://www.nand2tetris.org/course">nand2tetris</a>
 
-Link for the <a
-href="https://www.nand2tetris.org/course">course</a></br>
 Hebrew University of Jerusalem has playlist on youtube which is divided in
 2 parts</br>
 <a href="https://www.youtube.com/playlist?list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI">First part</a>
