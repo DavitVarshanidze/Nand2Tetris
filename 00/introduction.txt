@@ -1,0 +1,2 @@
+First lesson I installed software from https://www.nand2tetris.org/software here.
+You can also use their Online IDE. 
