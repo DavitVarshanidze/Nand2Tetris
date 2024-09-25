@@ -9,3 +9,6 @@ I prefer second edition book which is provided in source code.</br>
 On top there is software folder, which you can download and open any program which is provided by nand2tetris course,
 but do not forget to download JDK first if you don't have it already.
 
+### Computer Architecture Levels
+
+<img src="./Levels.png"></img
