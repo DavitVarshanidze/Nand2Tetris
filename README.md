@@ -11,4 +11,4 @@ but do not forget to download JDK first if you don't have it already.
 
 ### Computer Architecture Levels
 
-<img src="./Levels.png"></img
+<img src="./Levels.png"></img>
