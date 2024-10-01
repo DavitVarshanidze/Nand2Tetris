@@ -7,8 +7,6 @@ Hebrew University of Jerusalem has a course on Coursera which is divided in
 There is also a book in source code, however, there is first and second edition, I personally prefer second as it is more textually readable.</br>
 
 On top there is software folder, which you can download and open any program which is provided by nand2tetris course,
-but do not forget to download JDK first if you don't have it already.
+but do not forget to download JDK first if you don't have it already.</br>
 
-### Computer Architecture Levels
-
-<img src="./levels.png"></img>
+Good luck!
